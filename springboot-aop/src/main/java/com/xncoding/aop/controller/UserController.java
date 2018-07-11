@@ -20,7 +20,12 @@ public class UserController {
 
 =======
         //commit 1
+<<<<<<< HEAD
 >>>>>>> 69c6934... 1
+=======
+        //commit 2
+        //commit 3
+>>>>>>> bf96418... 3
         return "first controller";
     }
 
