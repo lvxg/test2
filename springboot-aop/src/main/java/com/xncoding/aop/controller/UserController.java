@@ -15,6 +15,7 @@ public class UserController {
         //rpc
 
         //rpc1
+        //rpc2
         return "first controller";
     }
 
