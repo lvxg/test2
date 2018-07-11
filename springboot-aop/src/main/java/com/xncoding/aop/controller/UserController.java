@@ -13,6 +13,8 @@ public class UserController {
     @RequestMapping("/first")
     public Object first() {
         //rpc
+
+        //rpc1
         return "first controller";
     }
 
