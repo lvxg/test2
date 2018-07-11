@@ -17,6 +17,7 @@ public class UserController {
 
     @RequestMapping("/doError")
     public Object error() {
+		//rpc
         return 1 / 0;
     }
 
