@@ -12,6 +12,7 @@ import com.xncoding.aop.aspect.UserAccess;
 public class UserController {
     @RequestMapping("/first")
     public Object first() {
+        //rpc
         return "first controller";
     }
 
