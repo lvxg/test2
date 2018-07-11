@@ -13,28 +13,8 @@ public class UserController {
     @RequestMapping("/first")
     public Object first() {
 
-        //rpc
 
-        //dev
-<<<<<<< HEAD
 
-=======
-        //commit 1
-<<<<<<< HEAD
->>>>>>> 69c6934... 1
-=======
-        //commit 2
-        //commit 3
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> bf96418... 3
-=======
->>>>>>> bf96418... 3
-=======
->>>>>>> bf96418... 3
-=======
->>>>>>> bf96418... 3
         return "first controller";
     }
 
