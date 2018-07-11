@@ -35,6 +35,7 @@ public class LogAspect {
 
     @AfterReturning(returning = "ret", pointcut = "webLog()")
     public void doAfterReturning(Object ret) throws Throwable {
+        System.out.println("master");
         // 处理完请求，返回内容
         System.out.println("方法的返回值 : " + ret);
     }
