@@ -16,7 +16,11 @@ public class UserController {
         //rpc
 
         //dev
+<<<<<<< HEAD
 
+=======
+        //commit 1
+>>>>>>> 69c6934... 1
         return "first controller";
     }
 
