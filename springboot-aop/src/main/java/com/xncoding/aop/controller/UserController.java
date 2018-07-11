@@ -26,6 +26,9 @@ public class UserController {
         //commit 2
         //commit 3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> bf96418... 3
+=======
 >>>>>>> bf96418... 3
 =======
 >>>>>>> bf96418... 3
