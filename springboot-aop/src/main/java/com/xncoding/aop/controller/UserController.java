@@ -12,10 +12,17 @@ import com.xncoding.aop.aspect.UserAccess;
 public class UserController {
     @RequestMapping("/first")
     public Object first() {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
       //提交1
 >>>>>>> Stashed changes
+=======
+        //dev
+        //commit 1
+        //commit 2
+        //commit 3
+>>>>>>> bf964189d900b9f05e88439eab0e4f9e26d71aca
         return "first controller";
     }
 
